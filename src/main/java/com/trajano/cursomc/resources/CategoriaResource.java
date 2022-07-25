@@ -37,3 +37,5 @@ public class CategoriaResource {
 	}
 
 }
+
+//teste
